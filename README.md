@@ -30,7 +30,7 @@
 
 ## Acknowledgements
 
- - Thank you to the developers of the speech_recognition, pyttsx3, pywhatkit, wikipedia, and pyjokes libraries for making this project possible.
+ - Thank you to the developers of the [speech_recognition](https://pypi.org/project/SpeechRecognition/), [pyttsx3](https://pypi.org/project/pyttsx3/), [pywhatkit](https://pypi.org/project/pywhatkit/), [wikipedia](https://pypi.org/project/wikipedia/), and [pyjokes](https://pypi.org/project/pyjokes/) libraries for making this project possible.
 
 ## License
 
