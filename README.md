@@ -39,4 +39,4 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 ## Conclusion
 
-With this personal assistant, you can automate many tasks in your daily life with just your voice. We hope you enjoy using it and welcome any feedback or suggestions for improvement.
+With this personal assistant, you can automate many tasks in your daily life with just your voice.I hope you enjoy using it and welcome any feedback or suggestions for improvement.
